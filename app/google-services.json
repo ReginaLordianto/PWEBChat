@@ -1,0 +1,327 @@
+{
+  "project_info": {
+    "project_number": "948676202438",
+    "firebase_url": "https://pwebchat-41557.firebaseio.com",
+    "project_id": "pwebchat-41557",
+    "storage_bucket": "pwebchat-41557.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948676202438:android:edbe870a8bda41b1",
+        "android_client_info": {
+          "package_name": "org.k.pwebchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948676202438-mcvh4qdqsnrucrtqfemfbsp35qtlga5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.k.pwebchat",
+            "certificate_hash": "dbb58641ed95bb1fb5d19993016702555ca452f2"
+          }
+        },
+        {
+          "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8vvF6ZFuT7laGODB8rsoQfFIc8ZyT74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948676202438:android:c006ef3df914c1d1",
+        "android_client_info": {
+          "package_name": "com.example.ivan.pwebchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948676202438-tmcgb68ppcl20u6ntbkuprjus92cmci7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ivan.pwebchat",
+            "certificate_hash": "f289b5c89d7387834b2a53011d459af983670103"
+          }
+        },
+        {
+          "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8vvF6ZFuT7laGODB8rsoQfFIc8ZyT74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948676202438:android:01b56cd18892344a",
+        "android_client_info": {
+          "package_name": "com.example.lenovo.pwebchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948676202438-bj47k2mfpl5d211m4v6hhfqqedgjsrol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lenovo.pwebchat",
+            "certificate_hash": "a27121179c6fde060111d40cef02276aeb988a1e"
+          }
+        },
+        {
+          "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8vvF6ZFuT7laGODB8rsoQfFIc8ZyT74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948676202438:android:e99c38213a354e61",
+        "android_client_info": {
+          "package_name": "com.example.a207_1.pwebchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948676202438-ef6h20iqsoeg4fd47sivns8i3kbu4tmb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a207_1.pwebchat",
+            "certificate_hash": "416ed4d91c7f3ad614cbc0ebcfb1f6e6e7dcef66"
+          }
+        },
+        {
+          "client_id": "948676202438-3rhll86q0gc3md3rkr0i2s9kimh15vmq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a207_1.pwebchat",
+            "certificate_hash": "1bd34bdfa59864fb7d7c140c8a4b2e8849cacd18"
+          }
+        },
+        {
+          "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8vvF6ZFuT7laGODB8rsoQfFIc8ZyT74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948676202438:android:63eb9b5886d53fde",
+        "android_client_info": {
+          "package_name": "com.example.toshiba_l15w.pwebchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948676202438-361pn7lonoop15l894sanvfku2et2ked.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toshiba_l15w.pwebchat",
+            "certificate_hash": "c750433e663dd6a4a6e520de3992b4feeb59478f"
+          }
+        },
+        {
+          "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8vvF6ZFuT7laGODB8rsoQfFIc8ZyT74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948676202438:android:21c201438c100530",
+        "android_client_info": {
+          "package_name": "com.splash.billy.pwebchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948676202438-jmqllpb6m4m5aqc3r8k3mc6ondg89vrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.splash.billy.pwebchat",
+            "certificate_hash": "289dd7c4340e1b068a2226caafa8e00939df4678"
+          }
+        },
+        {
+          "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8vvF6ZFuT7laGODB8rsoQfFIc8ZyT74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948676202438:android:39d37206c26deca5",
+        "android_client_info": {
+          "package_name": "com.example.aprianto.pwebchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948676202438-pss49an306runesndhifisr0135mptaa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aprianto.pwebchat",
+            "certificate_hash": "24520829b1702822e0cfcc7225911b3cdf1cb011"
+          }
+        },
+        {
+          "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY8vvF6ZFuT7laGODB8rsoQfFIc8ZyT74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948676202438-i1o47an5igfjkkenji7qdk6q44l1rkoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
